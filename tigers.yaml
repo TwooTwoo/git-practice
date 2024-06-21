@@ -9,5 +9,10 @@ members:
 - William
 - David
 - George
+<<<<<<< HEAD
 - Tyler
 - Kim
+=======
+- Tyler 
+- Park
+>>>>>>> conflict
